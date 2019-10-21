@@ -9,8 +9,8 @@ Aqui trataremos los siguientes apartados:
 
 3.- Herramientas: Herramientas de Kali-Linux.
 
-4.- Ejemplos de Herramientas 1:
+4.- Ejemplos de Herramientas 1
 
-5.- Ejemplos de Herramientas 2:
+5.- Ejemplos de Herramientas 2
 
 ## Videos:
