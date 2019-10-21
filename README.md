@@ -2,14 +2,14 @@
 Estudio sobre Kali-Linux
 ## Descripción:
 
-Kali-Linux:
+1.- Kali-Linux:
 
-Sistema Operativo:
+2.- Sistema Operativo:
 
-Herramientas:
+3.- Herramientas:
 
-Ejemplos de Herramientas 1:
+4.- Ejemplos de Herramientas 1:
 
-Ejemplos de Herramientas 2:
+5.- Ejemplos de Herramientas 2:
 
 ## Videos:
