@@ -1,12 +1,13 @@
 # Kali-Linux
 Estudio sobre Kali-Linux
 ## Descripción:
+Aqui trataremos los siguientes apartados:
 
-1.- Kali-Linux:
+1.- Kali-Linux: Descripción de Kali-Linux.
 
-2.- Sistema Operativo:
+2.- Sistema Operativo: Sistema Operativo en el que está basado Kali-Linux.
 
-3.- Herramientas:
+3.- Herramientas: Herramientas de Kali-Linux.
 
 4.- Ejemplos de Herramientas 1:
 
