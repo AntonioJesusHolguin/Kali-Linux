@@ -1,2 +1,2 @@
 # Kali-Linux
-Repositorio resumen acerca de la distribuicion de Linux, Kali-Linux.
+## Estudio sobre Kali-Linux
