@@ -14,4 +14,4 @@ Aqui trataremos los siguientes apartados:
 5.- Ejemplos de Herramientas 2
 
 ## Referencias:
-[Wikipedia] (https://es.wikipedia.org/wiki/Kali_Linux)
+[Wikipedia](https://es.wikipedia.org/wiki/Kali_Linux)
